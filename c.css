@@ -1,0 +1,19 @@
+*{
+	padding:0;
+	margin: 0;
+}
+body{
+	align-items: center;
+	display:flex;
+	justify-content: center;
+	height:100vh;
+	background-color: wheat;
+}
+.box{
+	background-color: #fff;
+	padding:20px;
+
+}
+.btn{
+	background-color: orange;
+}
